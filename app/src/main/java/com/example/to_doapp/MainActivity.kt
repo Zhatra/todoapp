@@ -11,7 +11,10 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.to_doapp.ui.theme.TodoAppTheme
-
+/**
+* @author Christian Eulogio Sanchez -
+* <a href="mailto:christianeulogio@ciencias.unam.mx">christianeulogio@ciencias.unam.mx</a>
+*/
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
